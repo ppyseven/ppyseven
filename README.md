@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center" style="color: #FF007F;">Yo!🤜, I'm teapot1de</h1>
+<h1 align="center" style="color: #FF007F;">Hi!🤜, I'm ppyseven</h1>
 <h3 align="center">A raw Sophomore computer science student from China</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" /> </p>
 
