@@ -12,26 +12,21 @@ I got visitors on my page! Well, you gotta check me out then 👀. Currently, I 
 🔢 Mathematical Modeling  
 👨‍💻 C++  C  python  ......  
 ✔️ LeetCode  Luogu  
-## WHAT I LIKE  
-🏀 NBA ⛹ playit 💜Lakers 👑 LBJ 🌹 Drose  
-⌨️ LPL 🐦‍🔥 FPX 🐶 lwx  
-🦫 loopy  
-🎭 Literature and Art  
 ## MY GITHUB STATS
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywh555hhh&theme=oldie&row=2&column=3" alt="ywh555hhh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ppyseven&theme=oldie&row=2&column=3" alt="ppyseven" /></a> </p>
 
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywh555hhh&count_private=true&show_icons=true&theme=rose)](https://github.com/ywh555hhh/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppyseven&count_private=true&show_icons=true&theme=rose)](https://github.com/ppyseven/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywh555hhh&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppyseven&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ywh555hhh&theme=rose" alt="ywh555hhh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ppyseven&theme=rose" alt="ywh555hhh" /></p>
 
 ## MY CS JOURNEY
 <!-- 会的东西以及 正在学习的 东西-->
