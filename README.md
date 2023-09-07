@@ -1,9 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center" style="color: #FF007F;">Hi!🤜, I'm ppyseven</h1>
 <h3 align="center">A raw Sophomore computer science student from China</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ywh555hhh&label=Profile%20views&color=0e75b6&style=flat" alt="ywh555hhh" /> </p>
 
-That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.
+I got visitors on my page! Well, you gotta check me out then 👀. Currently, I may not have any achievements or skills 🤫, but I'm slowly grinding and hustling ⛽️, right? "Know shame, then be brave" is an ancient wisdom of 🀄️ China. I'll keep pushing forward in the field 📁 of computers.
 ## WHO I AM  
 😸 A Sophomore computer science student  
 📍 Yichun, Jiangxi, China  
@@ -11,9 +10,8 @@ That's dope! 🙀 I got visitors on my page! Well, you gotta check me out then �
 🎂 2004  
 ## WHAT I DIG  
 🔢 Mathematical Modeling  
-👨‍💻 C++  C  Linux  ......  
-✔️ LeetCode  
-🧮 Supercomputer（but it's even hard to begin）  
+👨‍💻 C++  C  python  ......  
+✔️ LeetCode  Luogu  
 ## WHAT I LIKE  
 🏀 NBA ⛹ playit 💜Lakers 👑 LBJ 🌹 Drose  
 ⌨️ LPL 🐦‍🔥 FPX 🐶 lwx  
