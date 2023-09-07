@@ -50,42 +50,10 @@ I got visitors on my page! Well, you gotta check me out then 👀. Currently, I 
 <!-- 联系方式 -->
 <h3 align="left">Yo, you can catch me through these means, homie!!!!!</h3>
 <p align="left">
-<a href="https://twitter.com/nnnyiweihandful" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nnnyiweihandful" height="30" width="40" /></a>
-<a href="https://leetcode.cn/u/ywh555hhh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ywh555hhh" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/ppyseven/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ywh555hhh" height="30" width="40" /></a>
 </p>
 
 
-## WHAT IS MORE ......
-
-
-<h3 align="left">Holla at your boy, take a look and see below  
-⬇️⬇️⬇️⬇️ 
-</h3>
  
 
-<p align="left"><img src="homepage_media/LoopyQueenCard.gif" alt="LoopyQueenCard" width="500"></p>
 
-
-
-<!--
-**ywh555hhh/ywh555hhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-All you gotta do is click once, and it'll be able to send me an email
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weihanyi668@gmail.com)
-
-
-<p align="left"> <a href="https://twitter.com/nnnyiweihandful" target="blank"><img src="https://img.shields.io/twitter/follow/nnnyiweihandful?logo=twitter&style=for-the-badge" alt="nnnyiweihandful" /></a> </p>
-💘 this means a arrow into my heaet, that arrow must be something greatly special， Jesus 😼 ！！   
- 一颗会转的地球
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
